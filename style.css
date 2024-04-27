@@ -515,3 +515,9 @@
       font-weight: 700;
       line-height: normal;
   }
+
+
+
+  .error{
+    color: red;
+  }
